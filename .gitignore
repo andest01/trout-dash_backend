@@ -29,3 +29,5 @@
 /TroutStreamMangler/TroutDash.Export.Test/obj
 /TroutStreamMangler/TroutDash.Export.Test/bin
 /TroutStreamMangler/TroutDash.DatabaseImporter.Convention/*.user
+TroutStreamMangler/TroutStreamMangler/mn_import/
+TroutStreamMangler/TroutStreamMangler/wi_import/
